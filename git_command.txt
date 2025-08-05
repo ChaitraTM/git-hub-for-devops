@@ -1,4 +1,4 @@
-/git init
+git init
 git add <filename>
 git status
 git rm --cache <filename>
@@ -14,13 +14,11 @@ git remote -v
 git push origin master
 
 //update in github the newcode
+save using (ctrl+s)
 git add .
 git commit -m "message"
 git push origin main
 
-//this is new changes
-| GitHub → VS Code | `git pull origin main`        | Gets latest code from GitHub       |
-| VS Code → GitHub | `git add .`, `commit`, `push` | Sends your local changes to GitHub |
 
 
 
