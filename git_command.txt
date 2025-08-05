@@ -23,6 +23,8 @@ git push origin main
 | GitHub → VS Code | `git pull origin main`        | Gets latest code from GitHub       |
 | VS Code → GitHub | `git add .`, `commit`, `git push origin main` | Sends your local changes to GitHub |
 
+// hey i  am chaitra
+
 
 
 
