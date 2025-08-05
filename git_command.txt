@@ -20,7 +20,7 @@ git push origin main
 
 //this is new changes
 | GitHub → VS Code | `git pull origin main`        | Gets latest code from GitHub       |
-| VS Code → GitHub | `git add .`, `commit`, `push` | Sends your local changes to GitHub |
+| VS Code → GitHub | `git add .`, `commit`, `git push origin main` | Sends your local changes to GitHub |
 
 
 
